@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum NumberType {
+package PACKAGE_NAME;
+public enum NumberType {
+  ARABIC,
+  ROMAN
 }
